@@ -1,4 +1,4 @@
-# terraform-aws-vpc
+# Terraform-aws-vpc
 
 This module creates the foloowing resources.
 * VPC
